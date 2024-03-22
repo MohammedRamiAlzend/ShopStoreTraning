@@ -1,5 +1,4 @@
 Install this Extensions to make coding more easier
-
 1-Auto Close Tag
 2-Auto Rename Tag
 3-Better Comments
@@ -13,4 +12,4 @@ Install this Extensions to make coding more easier
 11- Material Icon Them
 12- Path intellisense
 13- Prettier - Code formatter
-14- Mithril Emmet
+14- Mithra Emmet
